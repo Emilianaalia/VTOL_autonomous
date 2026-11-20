@@ -1,0 +1,5 @@
+grpcio==1.84.0
+kconfiglib==14.1.0
+mavsdk==3.17.4
+protobuf==7.36.2
+typing_extensions==4.16.0
